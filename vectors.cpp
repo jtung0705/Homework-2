@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+// https://replit.com/@jtung0705/CSC-326
 
 class Vec
 {
