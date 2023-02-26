@@ -1,0 +1,36 @@
+/*
+1. (5 points) Class Vec
+Here is a checklist for helping you complete the class Vec library code:
+
+□ Start from the sample code at: https://replit.com/@Cong_Chen/20230223
+DONE
+□ Change struct to class
+DONE
+□ Make all the members private
+DONE
+□ Add get size, get capacity and get array methods
+get size DONE
+get capcity DONE
+get array DONE
+□ Add remove , index of and operator+ methods
+remove     (do I remove all numbers inputted or a number in a specific slot)
+example: remove(8), do I rremove index slot 8 or do i remove all numbers that are 8
+idx of first element DONE
+idx of all elemetns DONE
+operator +  DONE 
+ m   □ Add operator< method, and together with other five ( > , >= , <= , == , != )
+> bool DONE
+< bool DONE
+== bool DONE
+>= bool DONE
+<= bool DONE
+== bool DONE
+!= bool DONE
+□ Complete and debug all the other methods in the sample code, such as insert
+done
+□ Write some testing code in the main function
+done
+□ You can rename any class/members/methods/variables to meet your coding style
+done
+□ Due Date: 3/6/2023
+*/
