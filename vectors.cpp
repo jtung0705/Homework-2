@@ -175,7 +175,7 @@ public:
         Vec total;
         total.size = ((this->size < rhs.size) ? rhs.size : this->size);
         total.cap = ((this->cap < rhs.cap) ? rhs.cap : this->cap);
-        for (int i = 0; i < total.cap; i++) {
+        for (int i = 0; i < total.size; i++) {
             total.arr[i] = this->arr[i] + rhs.arr[i];
         }
         return total;
